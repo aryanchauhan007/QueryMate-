@@ -6,10 +6,11 @@ Meet QueryMate a PDF Chat AI App! 🚀 Chat seamlessly with Multiple PDFs using 
 The Multi-PDF's Chat Agent is a Streamlit-based web application designed to facilitate interactive conversations with a chatbot. The app allows users to upload multiple PDF documents, extract text information from them, and train a chatbot using this extracted content. Users can then engage in real-time conversations with the chatbot.
 
 # 📢Demo App with Streamlit Cloud (Visualize only)
-<img width="955" alt="sample run project" src="https://github.com/user-attachments/assets/01c25a11-f253-4f3e-8419-4992435b105d" />
+<img width="955" alt="sample run project" src="https://github.com/user-attachments/assets/81cd6d9f-1b65-4038-b23a-6a8f780ab3a6" />
 
 # 🎯 How It Works:
-![Architecture](https://github.com/user-attachments/assets/b144baf5-dabf-4572-b226-ff8f98b821e9)
+![Architecture](https://github.com/user-attachments/assets/84c83e08-ec6e-491e-b141-34fe2104026a)
+
 
 - The application follows these steps to provide responses to your questions:
 
@@ -33,7 +34,8 @@ The Multi-PDF's Chat Agent is a Streamlit-based web application designed to faci
 
 - LLM Model Compatibility: Supports Google Gemini Pro, OpenAI GPT 3, Anthropic Claude, Llama2 and other open-source LLMs.
 
-![LLMAgents](https://github.com/user-attachments/assets/b3903f2d-290b-4522-a3a7-e2409be2fabe)
+![LLMAgents](https://github.com/user-attachments/assets/f557a697-e57e-4724-b795-b50ee4d32818)
+
 
 # 🌟Requirements
 
